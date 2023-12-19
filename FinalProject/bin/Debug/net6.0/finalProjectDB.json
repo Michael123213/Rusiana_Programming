@@ -1,0 +1,342 @@
+{
+  "Users": [
+    {
+      "Id": 1,
+      "UserName": "Admin",
+      "Password": "123"
+    },
+    {
+      "Id": 2,
+      "UserName": "yves",
+      "Password": "yves"
+    },
+    {
+      "Id": 3,
+      "UserName": "rexyl",
+      "Password": "rexyl"
+    },
+    {
+      "Id": 4,
+      "UserName": "filemon",
+      "Password": "filemon"
+    },
+    {
+      "Id": 5,
+      "UserName": "Michael",
+      "Password": "123123"
+    },
+    {
+      "Id": 6,
+      "UserName": "Michael",
+      "Password": "12312"
+    },
+    {
+      "Id": 7,
+      "UserName": "Michael",
+      "Password": "12"
+    },
+    {
+      "Id": 8,
+      "UserName": "Jamel",
+      "Password": "Jamel123"
+    }
+  ],
+  "Products": [
+    {
+      "ProductId": 2,
+      "ProductName": "Tuna",
+      "ProductStock": 680.0,
+      "PricePerKg": 20.0
+    },
+    {
+      "ProductId": 3,
+      "ProductName": "Squid (small)",
+      "ProductStock": 89.0,
+      "PricePerKg": 40.0
+    },
+    {
+      "ProductId": 4,
+      "ProductName": "Buwad-potpot",
+      "ProductStock": 98.0,
+      "PricePerKg": 80.0
+    },
+    {
+      "ProductId": 5,
+      "ProductName": "Tambasakan",
+      "ProductStock": 242.0,
+      "PricePerKg": 20.0
+    },
+    {
+      "ProductId": 6,
+      "ProductName": "Lobster (live)",
+      "ProductStock": 188.0,
+      "PricePerKg": 1000.0
+    },
+    {
+      "ProductId": 7,
+      "ProductName": "Star Fish",
+      "ProductStock": 410.0,
+      "PricePerKg": 600.0
+    }
+  ],
+  "Orders": [
+    {
+      "OrderId": 1,
+      "UserId": 2,
+      "Ordered": [
+        {
+          "ProductId": 2,
+          "OrderedQty": 123.0,
+          "OrderedPricePerKg": 20.0,
+          "OrderedPriceTotal": 2460.0
+        }
+      ],
+      "TotalOrderPrice": 2638.35,
+      "Status": "Delivered/Received",
+      "PaymentMethod": "COD",
+      "DeliveryAddress": "Inayawan cebu city, 6000",
+      "Date": "2022-12-16T01:04:46.0983299+08:00"
+    },
+    {
+      "OrderId": 2,
+      "UserId": 2,
+      "Ordered": [
+        {
+          "ProductId": 3,
+          "OrderedQty": 120.0,
+          "OrderedPricePerKg": 40.0,
+          "OrderedPriceTotal": 4800.0
+        }
+      ],
+      "TotalOrderPrice": 5148.0,
+      "Status": "Delivered/Received",
+      "PaymentMethod": "COD",
+      "DeliveryAddress": "Tagonol pardo, cebu city, 6000",
+      "Date": "2023-12-16T01:04:46.0983351+08:00"
+    },
+    {
+      "OrderId": 3,
+      "UserId": 3,
+      "Ordered": [
+        {
+          "ProductId": 2,
+          "OrderedQty": 200.0,
+          "OrderedPricePerKg": 20.0,
+          "OrderedPriceTotal": 4000.0
+        },
+        {
+          "ProductId": 3,
+          "OrderedQty": 92.0,
+          "OrderedPricePerKg": 40.0,
+          "OrderedPriceTotal": 3680.0
+        }
+      ],
+      "TotalOrderPrice": 8236.8,
+      "Status": "On hold",
+      "PaymentMethod": "COD",
+      "DeliveryAddress": "",
+      "Date": "2023-12-16T01:04:46.0983432+08:00"
+    },
+    {
+      "OrderId": 4,
+      "UserId": 2,
+      "Ordered": [
+        {
+          "ProductId": 3,
+          "OrderedQty": 1.0,
+          "OrderedPricePerKg": 40.0,
+          "OrderedPriceTotal": 40.0
+        }
+      ],
+      "TotalOrderPrice": 42.9,
+      "Status": "Delivered/Received",
+      "PaymentMethod": "COD",
+      "DeliveryAddress": "",
+      "Date": "2022-12-16T01:37:24.7923272+08:00"
+    },
+    {
+      "OrderId": 5,
+      "UserId": 4,
+      "Ordered": [
+        {
+          "ProductId": 5,
+          "OrderedQty": 16.0,
+          "OrderedPricePerKg": 20.0,
+          "OrderedPriceTotal": 320.0
+        }
+      ],
+      "TotalOrderPrice": 343.2,
+      "Status": "On hold",
+      "PaymentMethod": "Online",
+      "DeliveryAddress": "Merkadong guba, cebu city, philippines, 6000",
+      "Date": "2023-12-16T01:44:22.7925824+08:00"
+    },
+    {
+      "OrderId": 6,
+      "UserId": 4,
+      "Ordered": [
+        {
+          "ProductId": 5,
+          "OrderedQty": 40.0,
+          "OrderedPricePerKg": 20.0,
+          "OrderedPriceTotal": 800.0
+        }
+      ],
+      "TotalOrderPrice": 858.0,
+      "Status": "On hold",
+      "PaymentMethod": "COD",
+      "DeliveryAddress": "Merkadong Guba",
+      "Date": "2023-12-16T10:30:40.9150875+08:00"
+    },
+    {
+      "OrderId": 7,
+      "UserId": 2,
+      "Ordered": [
+        {
+          "ProductId": 2,
+          "OrderedQty": 2.0,
+          "OrderedPricePerKg": 20.0,
+          "OrderedPriceTotal": 40.0
+        },
+        {
+          "ProductId": 3,
+          "OrderedQty": 2.0,
+          "OrderedPricePerKg": 40.0,
+          "OrderedPriceTotal": 80.0
+        },
+        {
+          "ProductId": 4,
+          "OrderedQty": 2.0,
+          "OrderedPricePerKg": 80.0,
+          "OrderedPriceTotal": 160.0
+        },
+        {
+          "ProductId": 5,
+          "OrderedQty": 2.0,
+          "OrderedPricePerKg": 20.0,
+          "OrderedPriceTotal": 40.0
+        },
+        {
+          "ProductId": 6,
+          "OrderedQty": 2.0,
+          "OrderedPricePerKg": 1000.0,
+          "OrderedPriceTotal": 2000.0
+        }
+      ],
+      "TotalOrderPrice": 2488.2,
+      "Status": "Out for Delivery",
+      "PaymentMethod": "COD",
+      "DeliveryAddress": "",
+      "Date": "2023-12-16T20:20:47.7810029+08:00"
+    },
+    {
+      "OrderId": 8,
+      "UserId": 2,
+      "Ordered": [
+        {
+          "ProductId": 2,
+          "OrderedQty": 8.0,
+          "OrderedPricePerKg": 20.0,
+          "OrderedPriceTotal": 160.0
+        },
+        {
+          "ProductId": 3,
+          "OrderedQty": 7.0,
+          "OrderedPricePerKg": 40.0,
+          "OrderedPriceTotal": 280.0
+        }
+      ],
+      "TotalOrderPrice": 471.9,
+      "Status": "On hold",
+      "PaymentMethod": "COD",
+      "DeliveryAddress": "",
+      "Date": "2023-12-16T20:43:09.063879+08:00"
+    },
+    {
+      "OrderId": 9,
+      "UserId": 2,
+      "Ordered": [
+        {
+          "ProductId": 3,
+          "OrderedQty": 1.0,
+          "OrderedPricePerKg": 40.0,
+          "OrderedPriceTotal": 40.0
+        },
+        {
+          "ProductId": 6,
+          "OrderedQty": 10.0,
+          "OrderedPricePerKg": 1000.0,
+          "OrderedPriceTotal": 10000.0
+        }
+      ],
+      "TotalOrderPrice": 10767.9,
+      "Status": "On hold",
+      "PaymentMethod": "COD",
+      "DeliveryAddress": "",
+      "Date": "2023-12-19T01:15:04.5424414+08:00"
+    },
+    {
+      "OrderId": 10,
+      "UserId": 5,
+      "Ordered": [
+        {
+          "ProductId": 2,
+          "OrderedQty": 10.0,
+          "OrderedPricePerKg": 20.0,
+          "OrderedPriceTotal": 200.0
+        }
+      ],
+      "TotalOrderPrice": 214.5,
+      "Status": "Out for Delivery",
+      "PaymentMethod": "COD",
+      "DeliveryAddress": "Bato",
+      "Date": "2023-12-19T02:32:51.0903283+08:00"
+    },
+    {
+      "OrderId": 11,
+      "UserId": 2,
+      "Ordered": [
+        {
+          "ProductId": 2,
+          "OrderedQty": 10.0,
+          "OrderedPricePerKg": 20.0,
+          "OrderedPriceTotal": 200.0
+        },
+        {
+          "ProductId": 8,
+          "OrderedQty": 12.0,
+          "OrderedPricePerKg": 200.0,
+          "OrderedPriceTotal": 2400.0
+        }
+      ],
+      "TotalOrderPrice": 2788.5,
+      "Status": "On hold",
+      "PaymentMethod": "Online",
+      "DeliveryAddress": "Otab",
+      "Date": "2023-12-19T04:38:24.1681616+08:00"
+    },
+    {
+      "OrderId": 12,
+      "UserId": 2,
+      "Ordered": [
+        {
+          "ProductId": 2,
+          "OrderedQty": 90.0,
+          "OrderedPricePerKg": 20.0,
+          "OrderedPriceTotal": 1800.0
+        },
+        {
+          "ProductId": 7,
+          "OrderedQty": 90.0,
+          "OrderedPricePerKg": 600.0,
+          "OrderedPriceTotal": 54000.0
+        }
+      ],
+      "TotalOrderPrice": 59845.5,
+      "Status": "Delivered/Received",
+      "PaymentMethod": "COD",
+      "DeliveryAddress": "",
+      "Date": "2023-12-19T11:26:52.18227+08:00"
+    }
+  ]
+}

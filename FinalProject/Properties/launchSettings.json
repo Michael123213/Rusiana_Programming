@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FinalProject": {
+      "commandName": "Project",
+      "remoteDebugEnabled": false
+    }
+  }
+}

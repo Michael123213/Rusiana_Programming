@@ -1,0 +1,17 @@
+C:\Users\Asus\Desktop\ALEINS\MRUSIANA\CPE262\FinalProject\bin\Debug\net6.0\FinalProject.exe
+C:\Users\Asus\Desktop\ALEINS\MRUSIANA\CPE262\FinalProject\bin\Debug\net6.0\FinalProject.deps.json
+C:\Users\Asus\Desktop\ALEINS\MRUSIANA\CPE262\FinalProject\bin\Debug\net6.0\FinalProject.runtimeconfig.json
+C:\Users\Asus\Desktop\ALEINS\MRUSIANA\CPE262\FinalProject\bin\Debug\net6.0\FinalProject.dll
+C:\Users\Asus\Desktop\ALEINS\MRUSIANA\CPE262\FinalProject\bin\Debug\net6.0\FinalProject.pdb
+C:\Users\Asus\Desktop\ALEINS\MRUSIANA\CPE262\FinalProject\obj\Debug\net6.0\FinalProject.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\ALEINS\MRUSIANA\CPE262\FinalProject\obj\Debug\net6.0\FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\ALEINS\MRUSIANA\CPE262\FinalProject\obj\Debug\net6.0\FinalProject.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\ALEINS\MRUSIANA\CPE262\FinalProject\obj\Debug\net6.0\FinalProject.AssemblyInfo.cs
+C:\Users\Asus\Desktop\ALEINS\MRUSIANA\CPE262\FinalProject\obj\Debug\net6.0\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\ALEINS\MRUSIANA\CPE262\FinalProject\obj\Debug\net6.0\FinalProject.dll
+C:\Users\Asus\Desktop\ALEINS\MRUSIANA\CPE262\FinalProject\obj\Debug\net6.0\refint\FinalProject.dll
+C:\Users\Asus\Desktop\ALEINS\MRUSIANA\CPE262\FinalProject\obj\Debug\net6.0\FinalProject.pdb
+C:\Users\Asus\Desktop\ALEINS\MRUSIANA\CPE262\FinalProject\obj\Debug\net6.0\FinalProject.genruntimeconfig.cache
+C:\Users\Asus\Desktop\ALEINS\MRUSIANA\CPE262\FinalProject\obj\Debug\net6.0\ref\FinalProject.dll
+C:\Users\Asus\Desktop\ALEINS\MRUSIANA\CPE262\FinalProject\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Asus\Desktop\ALEINS\MRUSIANA\CPE262\FinalProject\obj\Debug\net6.0\FinalProject.csproj.CopyComplete
